@@ -1,0 +1,260 @@
+\begin{thebibliography}{50}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aerni et~al.(2024)Aerni, Rando, Debenedetti, Carlini, Ippolito, and Tramèr]{aerni2024measuringnonadversarialreproductiontraining}
+Michael Aerni, Javier Rando, Edoardo Debenedetti, Nicholas Carlini, Daphne Ippolito, and Florian Tramèr.
+\newblock Measuring non-adversarial reproduction of training data in large language models, 2024.
+\newblock URL \url{https://arxiv.org/abs/2411.10242}.
+
+\bibitem[Baker et~al.(2025)Baker, Wang, Hoogland, and Murfet]{baker2025structuralinferenceinterpretingsmall}
+Garrett Baker, George Wang, Jesse Hoogland, and Daniel Murfet.
+\newblock Structural inference: Interpreting small language models with susceptibilities, 2025.
+\newblock URL \url{https://arxiv.org/abs/2504.18274}.
+
+\bibitem[Bushnaq et~al.(2024)Bushnaq, Mendel, Heimersheim, Braun, Goldowsky-Dill, H{\"a}nni, Wu, and Hobbhahn]{bushnaq2024using}
+Lucius Bushnaq, Jake Mendel, Stefan Heimersheim, Dan Braun, Nicholas Goldowsky-Dill, Kaarel H{\"a}nni, Cindy Wu, and Marius Hobbhahn.
+\newblock Using degeneracy in the loss landscape for mechanistic interpretability.
+\newblock \emph{arXiv preprint arXiv:2405.10927}, 2024.
+
+\bibitem[Bushnaq et~al.(2025)Bushnaq, Braun, and Sharkey]{bushnaq2025stochastic}
+Lucius Bushnaq, Dan Braun, and Lee Sharkey.
+\newblock Stochastic parameter decomposition.
+\newblock \emph{arXiv preprint arXiv:2506.20790}, 2025.
+
+\bibitem[Carlini et~al.(2019)Carlini, Liu, Erlingsson, Kos, and Song]{carlini2019secret}
+Nicholas Carlini, Chang Liu, {\'U}lfar Erlingsson, Jernej Kos, and Dawn Song.
+\newblock The secret sharer: Evaluating and testing unintended memorization in neural networks.
+\newblock In \emph{28th USENIX security symposium (USENIX security 19)}, pp.\  267--284, 2019.
+
+\bibitem[Carlini et~al.(2022)Carlini, Ippolito, Jagielski, Lee, Tramer, and Zhang]{carlini2022quantifying}
+Nicholas Carlini, Daphne Ippolito, Matthew Jagielski, Katherine Lee, Florian Tramer, and Chiyuan Zhang.
+\newblock Quantifying memorization across neural language models.
+\newblock In \emph{The Eleventh International Conference on Learning Representations}, 2022.
+
+\bibitem[Chang et~al.(2024)Chang, Thomason, and Jia]{chang2024localization}
+Ting-Yun Chang, Jesse Thomason, and Robin Jia.
+\newblock Do localization methods actually localize memorized data in llms? a tale of two benchmarks.
+\newblock In \emph{NAACL-HLT}, 2024.
+
+\bibitem[Dai et~al.(2022)Dai, Dong, Hao, Sui, Chang, and Wei]{dai2022knowledge}
+Damai Dai, Li~Dong, Yaru Hao, Zhifang Sui, Baobao Chang, and Furu Wei.
+\newblock Knowledge neurons in pretrained transformers.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}, pp.\  8493--8502, 2022.
+
+\bibitem[Dosovitskiy et~al.(2020)Dosovitskiy, Beyer, Kolesnikov, Weissenborn, Zhai, Unterthiner, Dehghani, Minderer, Heigold, Gelly, et~al.]{dosovitskiy2020image}
+Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, G~Heigold, S~Gelly, et~al.
+\newblock An image is worth 16x16 words: Transformers for image recognition at scale.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+
+\bibitem[Foret et~al.(2021)Foret, Kleiner, Mobahi, and Neyshabur]{foretsharpness}
+Pierre Foret, Ariel Kleiner, Hossein Mobahi, and Behnam Neyshabur.
+\newblock Sharpness-aware minimization for efficiently improving generalization.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+
+\bibitem[Garg et~al.(2024)Garg, Ravikumar, and Roy]{garg2024memorization}
+Isha Garg, Deepak Ravikumar, and Kaushik Roy.
+\newblock Memorization through the lens of curvature of loss function around samples.
+\newblock In \emph{International Conference on Machine Learning}, pp.\  15083--15101. PMLR, 2024.
+
+\bibitem[Geva et~al.(2021)Geva, Schuster, Berant, and Levy]{geva2021transformer}
+Mor Geva, Roei Schuster, Jonathan Berant, and Omer Levy.
+\newblock Transformer feed-forward layers are key-value memories.
+\newblock In \emph{Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing}. Association for Computational Linguistics, 2021.
+
+\bibitem[Ghorbani et~al.(2019)Ghorbani, Krishnan, and Xiao]{ghorbani2019investigation}
+Behrooz Ghorbani, Shankar Krishnan, and Ying Xiao.
+\newblock An investigation into neural net optimization via hessian eigenvalue density.
+\newblock In \emph{International Conference on Machine Learning}, pp.\  2232--2241. PMLR, 2019.
+
+\bibitem[Gu et~al.(2025)Gu, Tafjord, Kuehl, Haddad, Dodge, and Hajishirzi]{gu2025olmes}
+Yuling Gu, Oyvind Tafjord, Bailey Kuehl, Dany Haddad, Jesse Dodge, and Hannaneh Hajishirzi.
+\newblock Olmes: A standard for language model evaluations.
+\newblock In \emph{Findings of the Association for Computational Linguistics: NAACL 2025}, pp.\  5005--5033, 2025.
+
+\bibitem[Gur-Arieh et~al.(2025)Gur-Arieh, Suslik, Hong, Barez, and Geva]{gur2025precise}
+Yoav Gur-Arieh, Clara Suslik, Yihuai Hong, Fazl Barez, and Mor Geva.
+\newblock Precise in-parameter concept erasure in large language models.
+\newblock \emph{arXiv preprint arXiv:2505.22586}, 2025.
+
+\bibitem[Hase et~al.(2023)Hase, Bansal, Kim, and Ghandeharioun]{hase2023does}
+Peter Hase, Mohit Bansal, Been Kim, and Asma Ghandeharioun.
+\newblock Does localization inform editing? surprising differences in causality-based localization vs. knowledge editing in language models.
+\newblock \emph{Advances in Neural Information Processing Systems}, 36:\penalty0 17643--17668, 2023.
+
+\bibitem[Hassibi et~al.(1993)Hassibi, Stork, and Wolff]{hassibi1993optimal}
+Babak Hassibi, David~G Stork, and Gregory~J Wolff.
+\newblock Optimal brain surgeon and general network pruning.
+\newblock In \emph{IEEE international conference on neural networks}, pp.\  293--299. IEEE, 1993.
+
+\bibitem[Hernandez et~al.(2024)Hernandez, Sharma, Haklay, Meng, Wattenberg, Andreas, Belinkov, and Bau]{hernandezlinearity}
+Evan Hernandez, Arnab~Sen Sharma, Tal Haklay, Kevin Meng, Martin Wattenberg, Jacob Andreas, Yonatan Belinkov, and David Bau.
+\newblock Linearity of relation decoding in transformer language models.
+\newblock In \emph{The Twelfth International Conference on Learning Representations}, 2024.
+
+\bibitem[Hochreiter \& Schmidhuber(1997)Hochreiter and Schmidhuber]{hochreiter1997flat}
+Sepp Hochreiter and J{\"u}rgen Schmidhuber.
+\newblock Flat minima.
+\newblock \emph{Neural computation}, 9\penalty0 (1):\penalty0 1--42, 1997.
+
+\bibitem[Huang et~al.(2024)Huang, Yang, and Potts]{huang2024demystifying}
+Jing Huang, Diyi Yang, and Christopher Potts.
+\newblock Demystifying verbatim memorization in large language models.
+\newblock In \emph{Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing}, pp.\  10711--10732, 2024.
+
+\bibitem[JAISWAL et~al.(2024)JAISWAL, Gan, Du, Zhang, Wang, and Yang]{jaiswal2024compressing}
+AJAY~KUMAR JAISWAL, Zhe Gan, Xianzhi Du, Bowen Zhang, Zhangyang Wang, and Yinfei Yang.
+\newblock Compressing {LLM}s: The truth is rarely pure and never simple.
+\newblock In \emph{The Twelfth International Conference on Learning Representations}, 2024.
+\newblock URL \url{https://openreview.net/forum?id=B9klVS7Ddk}.
+
+\bibitem[Jaiswal et~al.(2025)Jaiswal, Wang, Yin, Liu, Chen, Zhao, Grama, Tian, and Wang]{jaiswallow}
+Ajay~Kumar Jaiswal, Yifan Wang, Lu~Yin, Shiwei Liu, Runjin Chen, Jiawei Zhao, Ananth Grama, Yuandong Tian, and Zhangyang Wang.
+\newblock From low rank gradient subspace stabilization to low-rank weights: Observations, theories, and applications.
+\newblock In \emph{Forty-second International Conference on Machine Learning}, 2025.
+
+\bibitem[Jeon et~al.(2024)Jeon, Kim, and No]{jeon2024understanding}
+Dongjae Jeon, Dueun Kim, and Albert No.
+\newblock Understanding memorization in generative models via sharpness in probability landscapes.
+\newblock \emph{CoRR}, 2024.
+
+\bibitem[Kantamneni \& Tegmark(2025)Kantamneni and Tegmark]{kantamneni2025language}
+Subhash Kantamneni and Max Tegmark.
+\newblock Language models use trigonometry to do addition.
+\newblock \emph{arXiv preprint arXiv:2502.00873}, 2025.
+
+\bibitem[Karamolegkou et~al.(2023)Karamolegkou, Li, Zhou, and S{\o}gaard]{karamolegkou2023copyright}
+Antonia Karamolegkou, Jiaang Li, Li~Zhou, and Anders S{\o}gaard.
+\newblock Copyright violations and large language models.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing}, pp.\  7403--7412, 2023.
+
+\bibitem[Keskar et~al.(2017)Keskar, Mudigere, Nocedal, Smelyanskiy, and Tang]{keskar2017large}
+Nitish~Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, and Ping Tak~Peter Tang.
+\newblock On large-batch training for deep learning: Generalization gap and sharp minima.
+\newblock In \emph{International Conference on Learning Representations}, 2017.
+
+\bibitem[Kim et~al.(2023)Kim, Agrawal, Royset, and Khanna]{kim2023memorization}
+Young~In Kim, Pratiksha Agrawal, Johannes~O Royset, and Rajiv Khanna.
+\newblock On memorization and privacy risks of sharpness aware minimization.
+\newblock \emph{CoRR}, 2023.
+
+\bibitem[LeCun et~al.(1989)LeCun, Denker, and Solla]{lecun1989optimal}
+Yann LeCun, John Denker, and Sara Solla.
+\newblock Optimal brain damage.
+\newblock \emph{Advances in neural information processing systems}, 2, 1989.
+
+\bibitem[Lee et~al.(2025)Lee, Foote, Infanger, Shor, Kamath, Goldman-Wetzler, Woodworth, Cloud, and Turner]{lee2025distillationrobustifiesunlearning}
+Bruce~W. Lee, Addie Foote, Alex Infanger, Leni Shor, Harish Kamath, Jacob Goldman-Wetzler, Bryce Woodworth, Alex Cloud, and Alexander~Matt Turner.
+\newblock Distillation robustifies unlearning, 2025.
+\newblock URL \url{https://arxiv.org/abs/2506.06278}.
+
+\bibitem[Maini et~al.(2023)Maini, Mozer, Sedghi, Lipton, Kolter, and Zhang]{maini2023can}
+Pratyush Maini, Michael~C Mozer, Hanie Sedghi, Zachary~C Lipton, J~Zico Kolter, and Chiyuan Zhang.
+\newblock Can neural network memorization be localized?
+\newblock In \emph{Proceedings of the 40th International Conference on Machine Learning}, pp.\  23536--23557, 2023.
+
+\bibitem[Martens \& Grosse(2015)Martens and Grosse]{martens2015optimizing}
+James Martens and Roger Grosse.
+\newblock Optimizing neural networks with kronecker-factored approximate curvature.
+\newblock In \emph{International conference on machine learning}, pp.\  2408--2417. PMLR, 2015.
+
+\bibitem[McCoy et~al.(2023)McCoy, Yao, Friedman, Hardy, and Griffiths]{mccoy2023embers}
+R~Thomas McCoy, Shunyu Yao, Dan Friedman, Matthew Hardy, and Thomas~L Griffiths.
+\newblock Embers of autoregression: Understanding large language models through the problem they are trained to solve.
+\newblock \emph{arXiv preprint arXiv:2309.13638}, 2023.
+
+\bibitem[Meng et~al.(2022)Meng, Bau, Andonian, and Belinkov]{meng2022locating}
+Kevin Meng, David Bau, Alex Andonian, and Yonatan Belinkov.
+\newblock Locating and editing factual associations in gpt.
+\newblock \emph{Advances in neural information processing systems}, 35:\penalty0 17359--17372, 2022.
+
+\bibitem[Menta et~al.(2025)Menta, Agrawal, and Agarwal]{menta2025analyzing}
+Tarun~Ram Menta, Susmit Agrawal, and Chirag Agarwal.
+\newblock Analyzing memorization in large language models through the lens of model attribution.
+\newblock In \emph{Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)}, pp.\  10661--10689, 2025.
+
+\bibitem[Merullo et~al.(2024)Merullo, Eickhoff, and Pavlick]{merullo2024language}
+Jack Merullo, Carsten Eickhoff, and Ellie Pavlick.
+\newblock Language models implement simple word2vec-style vector arithmetic.
+\newblock In \emph{Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)}, pp.\  5030--5047, 2024.
+
+\bibitem[Merullo et~al.(2025)Merullo, Smith, Wiegreffe, and Elazar]{merullolinear}
+Jack Merullo, Noah~A Smith, Sarah Wiegreffe, and Yanai Elazar.
+\newblock On linear representations and pretraining data frequency in language models.
+\newblock In \emph{The Thirteenth International Conference on Learning Representations}, 2025.
+
+\bibitem[Morris et~al.(2025)Morris, Sitawarin, Guo, Kokhlikyan, Suh, Rush, Chaudhuri, and Mahloujifar]{morris2025much}
+John~X Morris, Chawin Sitawarin, Chuan Guo, Narine Kokhlikyan, G~Edward Suh, Alexander~M Rush, Kamalika Chaudhuri, and Saeed Mahloujifar.
+\newblock How much do language models memorize?
+\newblock \emph{arXiv preprint arXiv:2505.24832}, 2025.
+
+\bibitem[Nguyen \& Reddy(2025)Nguyen and Reddy]{nguyen2025differential}
+Alex Nguyen and Gautam Reddy.
+\newblock Differential learning kinetics govern the transition from memorization to generalization during in-context learning.
+\newblock In \emph{The Thirteenth International Conference on Learning Representations}, 2025.
+\newblock URL \url{https://openreview.net/forum?id=INyi7qUdjZ}.
+
+\bibitem[Nikankin et~al.(2025)Nikankin, Reusch, Mueller, and Belinkov]{nikankinarithmetic}
+Yaniv Nikankin, Anja Reusch, Aaron Mueller, and Yonatan Belinkov.
+\newblock Arithmetic without algorithms: Language models solve math with a bag of heuristics.
+\newblock In \emph{The Thirteenth International Conference on Learning Representations}, 2025.
+
+\bibitem[OLMo et~al.(2024)OLMo, Walsh, Soldaini, Groeneveld, Lo, Arora, Bhagia, Gu, Huang, Jordan, et~al.]{olmo20242}
+Team OLMo, Pete Walsh, Luca Soldaini, Dirk Groeneveld, Kyle Lo, Shane Arora, Akshita Bhagia, Yuling Gu, Shengyi Huang, Matt Jordan, et~al.
+\newblock 2 olmo 2 furious.
+\newblock \emph{arXiv preprint arXiv:2501.00656}, 2024.
+
+\bibitem[Rajamanoharan et~al.(2023)Rajamanoharan, Nanda, Kramár, and Shah]{factfinding}
+Senthooran Rajamanoharan, Neel Nanda, János Kramár, and Rohin Shah.
+\newblock Fact finding: How to think about interpreting memorisation (post 4) — {AI} alignment forum, 2023.
+\newblock URL \url{https://www.alignmentforum.org/posts/JRcNNGJQ3xNfsxPj4/fact-finding-how-to-think-about-interpreting-memorisation}.
+
+\bibitem[Ravikumar et~al.(2024)Ravikumar, Soufleri, Hashemi, and Roy]{ravikumar2024unveiling}
+Deepak Ravikumar, Efstathia Soufleri, Abolfazl Hashemi, and Kaushik Roy.
+\newblock Unveiling privacy, memorization, and input curvature links.
+\newblock In \emph{International Conference on Machine Learning}, pp.\  42192--42212. PMLR, 2024.
+
+\bibitem[Russakovsky et~al.(2015)Russakovsky, Deng, Su, Krause, Satheesh, Ma, Huang, Karpathy, Khosla, Bernstein, et~al.]{russakovsky2015imagenet}
+Olga Russakovsky, Jia Deng, Hao Su, Jonathan Krause, Sanjeev Satheesh, Sean Ma, Zhiheng Huang, Andrej Karpathy, Aditya Khosla, Michael Bernstein, et~al.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock \emph{International journal of computer vision}, 115\penalty0 (3):\penalty0 211--252, 2015.
+
+\bibitem[Sakarvadia et~al.(2025)Sakarvadia, Ajith, Khan, Hudson, Geniesse, Chard, Yang, Foster, and Mahoney]{sakarvadiamitigating}
+Mansi Sakarvadia, Aswathy Ajith, Arham~Mushtaq Khan, Nathaniel~C Hudson, Caleb Geniesse, Kyle Chard, Yaoqing Yang, Ian Foster, and Michael~W Mahoney.
+\newblock Mitigating memorization in language models.
+\newblock In \emph{The Thirteenth International Conference on Learning Representations}, 2025.
+
+\bibitem[Sharma et~al.(2023)Sharma, Ash, and Misra]{sharmatruth}
+Pratyusha Sharma, Jordan~T Ash, and Dipendra Misra.
+\newblock The truth is in there: Improving reasoning in language models with layer-selective rank reduction.
+\newblock In \emph{The Twelfth International Conference on Learning Representations}, 2023.
+
+\bibitem[Shokri et~al.(2017)Shokri, Stronati, Song, and Shmatikov]{shokri2017membership}
+Reza Shokri, Marco Stronati, Congzheng Song, and Vitaly Shmatikov.
+\newblock Membership inference attacks against machine learning models.
+\newblock In \emph{2017 IEEE symposium on security and privacy (SP)}, pp.\  3--18. IEEE, 2017.
+
+\bibitem[Stoehr et~al.(2024)Stoehr, Gordon, Zhang, and Lewis]{stoehr2024localizing}
+Niklas Stoehr, Mitchell Gordon, Chiyuan Zhang, and Owen Lewis.
+\newblock Localizing paragraph memorization in language models.
+\newblock \emph{arXiv preprint arXiv:2403.19851}, 2024.
+
+\bibitem[Yunis et~al.(2024)Yunis, Patel, Wheeler, Savarese, Vardi, Livescu, Maire, and Walter]{yunis2024approaching}
+David Yunis, Kumar~Kshitij Patel, Samuel Wheeler, Pedro Savarese, Gal Vardi, Karen Livescu, Michael Maire, and Matthew~R Walter.
+\newblock Approaching deep learning through the spectral dynamics of weights.
+\newblock \emph{arXiv preprint arXiv:2408.11804}, 2024.
+
+\bibitem[Zhang et~al.(2017)Zhang, Bengio, Hardt, Recht, and Vinyals]{zhang2017understanding}
+Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, and Oriol Vinyals.
+\newblock Understanding deep learning requires rethinking generalization.
+\newblock In \emph{International Conference on Learning Representations}, 2017.
+
+\bibitem[Zhao et~al.(2024)Zhao, Zhang, Chen, Wang, Anandkumar, and Tian]{zhaogalore}
+Jiawei Zhao, Zhenyu Zhang, Beidi Chen, Zhangyang Wang, Anima Anandkumar, and Yuandong Tian.
+\newblock Galore: Memory-efficient llm training by gradient low-rank projection.
+\newblock In \emph{Forty-first International Conference on Machine Learning}, 2024.
+
+\end{thebibliography}

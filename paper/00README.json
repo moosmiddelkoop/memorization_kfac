@@ -1,0 +1,49 @@
+{
+   "sources" : [
+      {
+         "usage" : "toplevel",
+         "filename" : "iclr2026_conference.tex"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "block_results_visualization.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/accuracy_comparison.png"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/disentanglement.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/fc1_fc2_vit.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/kfac_and_svd_compare.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/mem_clean_tight_pairs_compact.pdf"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "figures/mem_comp.png"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "iclr2026_conference.bib"
+      },
+      {
+         "usage" : "ignore",
+         "filename" : "iclr2026_conference.bst"
+      }
+   ],
+   "spec_version" : 1,
+   "texlive_version" : "2025",
+   "process" : {
+      "compiler" : "pdflatex"
+   }
+}
